@@ -1,0 +1,13 @@
+date,city,region,ev_sales,charging_stations
+2024-01-01,Chennai,South,150,35
+2024-01-01,Delhi,North,200,45
+2024-01-01,Mumbai,West,180,40
+2024-02-01,Chennai,South,170,38
+2024-02-01,Delhi,North,210,48
+2024-02-01,Mumbai,West,195,42
+2024-03-01,Chennai,South,190,42
+2024-03-01,Delhi,North,230,52
+2024-03-01,Mumbai,West,215,45
+2024-04-01,Chennai,South,220,47
+2024-04-01,Delhi,North,260,56
+2024-04-01,Mumbai,West,240,49
